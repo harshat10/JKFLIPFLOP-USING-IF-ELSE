@@ -1,14 +1,17 @@
 # JKFLIPFLOP-USING-IF-ELSE
+### NAME: HARSHAT .G 
+### REG NO.:24010855
 
-**AIM:** 
+
+# AIM:
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+# SOFTWARE REQUIRED:
 
 Quartus prime
 
-**THEORY**
+# THEORY
 
 **JK Flip-Flop**
 
@@ -32,17 +35,17 @@ By using three variable K-Map, we can get the simplified expression for next sta
 
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
-**Procedure**
+# Procedure
+Implementing JK - flipflop in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
+# PROGRAM
+![Screenshot 2024-12-09 104457](https://github.com/user-attachments/assets/51776f24-77df-464c-91fa-903f4fe20545)
 
-/* write all the steps invloved */
 
-**PROGRAM**
+# RTL LOGIC FOR FLIPFLOPS
+![Screenshot 2024-12-09 104503](https://github.com/user-attachments/assets/9c171522-22df-4ada-8075-d541009499b4)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+# TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2024-12-09 105349](https://github.com/user-attachments/assets/86d9504f-fa3c-46c8-99c8-7e0380dd9667)
 
-**RTL LOGIC FOR FLIPFLOPS**
-
-**TIMING DIGRAMS FOR FLIP FLOPS**
-
-**RESULTS**
+# RESULTS
+Implemented  JK flipflop using verilog and validating their functionality using their functional tables.
