@@ -1,6 +1,6 @@
 ### NAME: HARSHAT .G 
 ### REG NO.:24010855
-# EXPERMENT No.5: JK FLIPFLOP
+# EXPERMENT : Implementation of JK FLIPFLOP
 # AIM:
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
